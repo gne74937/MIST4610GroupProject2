@@ -46,3 +46,6 @@ Our dataset consists of two tables: storm details and storm fatalities. We joine
 
 ## Slide Presentation
 [Presentation](https://docs.google.com/presentation/d/1B46KUGu4pRxniZi-3Z1cxYYDa6x0bsMjXq1WEiI80h0/edit?usp=sharing)
+
+## Honors Option- Nicholas Espinel
+https://docs.google.com/presentation/d/1tB832IMHwtFOomLVVuo0hQ-dfrijfVb5eFdzIJE9mcg/edit#slide=id.g3197cac26a0_0_0 
