@@ -9,7 +9,7 @@ Team 6
 2. Evan Mahathirath [@evanmahathirath](https://github.com/emahathirath/MIST-4610-Group-Project-2) 
 3. Tarita Jakobs [@taritajakobs](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2)
 4. Mia Townsend [@miatownsend](https://github.com/MiaGTownsend/MIST4610-GroupProject2-Storms) 
-5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-KrystaSchwab-GroupProject2-Storms)
+5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-KrystaSchwab-GroupProject2-Storms) 
 
 ## Dataset
 The dataset is from https://data.gov/, an open resource for data about the United States. It contains information about storms and severe weather in the United States in 2023. It has 53977 rows and 51 columns. The data types of each column range from strings to numerical values, as well as date-time data types. Some columns are event type(hurricane, tornado, etc.), state, month, number of fatalities, and property damage.
